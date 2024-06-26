@@ -1,10 +1,10 @@
 # TOOLS REFERENCES CRUD
 👨‍🏫ESTE APLICATIVO É UM SISTEMA DE GERENCIAMENTO DE FERRAMENTAS E REFERÊNCIAS, DESENVOLVIDO COM PYQT5/PYSIDE6 E PEEWEE ORM E SQLITE.
 
-<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_4.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_1.jpg" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_2.jpg" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_3.jpg" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_4.jpg" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 Este aplicativo é um sistema de gerenciamento de ferramentas e referências, desenvolvido com PyQt5/PySide6 e Peewee ORM para Python. Ele permite aos usuários realizar várias operações relacionadas à criação, edição, busca e visualização de informações sobre ferramentas e referências. 
