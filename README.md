@@ -55,6 +55,7 @@ Este aplicativo é um sistema de gerenciamento de ferramentas e referências, de
 - Entendemos que para manipular arquivos em muitas linguagens e tecnologias, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
 * [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
 * [CURSO DE PYSIDE](https://github.com/VILHALVA/CURSO-DE-PYSIDE)
+* [CURSO DE PYQT](https://github.com/VILHALVA/CURSO-DE-PYQT)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
