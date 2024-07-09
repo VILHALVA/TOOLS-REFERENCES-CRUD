@@ -57,6 +57,7 @@ Este aplicativo é um sistema de gerenciamento de ferramentas e referências, de
 * [CURSO DE PYSIDE](https://github.com/VILHALVA/CURSO-DE-PYSIDE)
 * [CURSO DE PYQT](https://github.com/VILHALVA/CURSO-DE-PYQT)
 * [CURSO DE SQLITE](https://github.com/VILHALVA/CURSO-DE-SQLITE)
+* [CURSO DE PYTHON COM SQLITE](https://github.com/VILHALVA/CURSO-DE-PYTHON-COM-SQLITE)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
